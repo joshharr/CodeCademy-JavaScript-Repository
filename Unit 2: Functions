@@ -1,0 +1,15 @@
+# Lesson 3: Introduction to Functions in JS
+var speed = 65;
+
+// Complete the condition in the ()s on line 4
+if (speed > 80) {
+    console.log("Slow Down")
+    // Use console.log() to print "Slow Down"
+} else
+{console.log("Drive Safe")
+    // Use console.log() to print "Drive Safe"
+}
+
+# Lesson 4: Build "Rock, Paper, Scissors"
+
+*just click "save & submit" *
